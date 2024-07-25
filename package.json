@@ -1,0 +1,24 @@
+{
+  "name": "queue-basic",
+  "version": "1.0.0",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusdeexii/Queue-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusdeexii/Queue-basic/issues"
+  },
+  "homepage": "https://github.com/rusdeexii/Queue-basic#readme",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "mysql": "^2.18.1",
+    "uuid": "^10.0.0"
+  }
+}
